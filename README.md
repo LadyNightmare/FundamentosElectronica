@@ -1,1 +1,1 @@
-# FundamentosElectronica
+All the files and resources found. GitHub won't leave me upload files greater than 25 MB so I can't upload the images of Xilinx nor LTspice, so if for any reason you want it, you can contact me on Telegram: @ladynightmare. Just tell me from where and what you come for!
